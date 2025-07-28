@@ -5,15 +5,18 @@
 ## Python ##
 
 ## Files ##
-.json
-.pyc
-.exe
-.pem
+.sqlite3
 .so
+.pyc
+.pem
+.exe
 .xml
+.json
+db.sqlite3
 
 ## Directories ##
-.venv/
-models/
 __pycache__/
+logs/
+models/
 build/
+.venv/
